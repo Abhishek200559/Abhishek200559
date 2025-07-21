@@ -61,6 +61,7 @@ Git, GitHub, REST APIs, VSCode, Jupyter Notebook
   <a href="https://abhishek-podishetty.vercel.app/">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/abhishekpodishetty/">LinkedIn</a> • 
   <a href="https://github.com/Abhishek200559">GitHub</a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> podishettyabhi17@gmail.com</a>
 </p>
 
 ---
