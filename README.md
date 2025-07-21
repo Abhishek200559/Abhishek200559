@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Aspiring Full Stack Developer | DSA Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Podishetty</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Exploring Data Science & Tech </h3>
 
 ---
 
@@ -16,16 +16,19 @@
 ### 🛠️ Tech Stack & Skills
 
 **Frontend:**  
-HTML • CSS • JavaScript • TypeScript • React • Tailwind CSS
+HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
 **Backend:**  
-Node.js • Express.js • FastAPI • Python
+Node.js • Express.js 
 
 **Databases:**  
-MongoDB • PostgreSQL • Firebase • MySQL
+MongoDB • PostgreSQL • MySQL
 
 **Other Tools:**  
-Git • GitHub • REST APIs • VSCode • Vercel
+Git • GitHub • REST APIs • VSCode 
+
+**Data Science & ML
+Python • Numpy • Pandas
 
 ---
 
@@ -33,17 +36,21 @@ Git • GitHub • REST APIs • VSCode • Vercel
 
 Here are some cool things I’ve built:
 
-- 🔗 [Project 1 Name](link) — Short description
-- 🔗 [Project 2 Name](link) — Short description
-- 🔗 [Project 3 Name](link) — Short description
+- 🔗 [Simon Says Memory Game](link) — Developed a web-based memory game using HTML, CSS, JavaScript
+- Implemented game logic to generate and validate color sequences increasing in complexity
+with each level.
+- Added user interaction through keypress and click events, with visual and sound feedback.
+- Strengthened front-end skills and DOM manipulation by creating a full interactive browser
+game.
+
 
 ---
 
 ### 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-podishetty.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpodishetty/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek200559)
 
 ---
 
