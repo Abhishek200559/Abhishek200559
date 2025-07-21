@@ -3,8 +3,6 @@
 
 ---
 
-### 🚀 About Me
-
 ## 🚀 About Me
 
 💻 I'm a self-motivated developer passionate about building scalable, intuitive, and efficient web applications.
@@ -35,7 +33,7 @@ MongoDB • PostgreSQL • MySQL
 **Other Tools:**  
 Git • GitHub • REST APIs • VSCode • Jupyter Notebook  
 
-**Data Science & ML
+**Data Science & ML:**
 Python • Numpy • Pandas
 
 ---
