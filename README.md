@@ -5,11 +5,19 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on [your current project or learning path].
-- 🌱 I’m learning MERN stack, DSA, and system design.
-- 💬 Ask me about JavaScript, React, Node.js, Python, or anything tech-related!
-- 📫 Reach me at: [your email or social links]
-- ⚡ Fun fact: I love solving real-world problems through code.
+## 🚀 About Me
+
+💻 I'm a self-motivated developer passionate about building scalable, intuitive, and efficient web applications.
+
+🔍 Solid foundation in Data Structures and Algorithms, with a love for solving real-world problems using Python.
+
+🧠 Continuously exploring new domains like Machine Learning and backend technologies to broaden my skill set.
+
+🌐 Enjoy working across the full stack — from creating responsive UIs to designing robust backend systems.
+
+🛠 Currently working on full-stack projects using technologies like React, Node.js, and Firebase to build meaningful solutions.
+
+💡 Curious about tech innovations, focused on writing clean, maintainable code, and always striving for performance and impact.
 
 ---
 
@@ -25,7 +33,7 @@ Node.js • Express.js
 MongoDB • PostgreSQL • MySQL
 
 **Other Tools:**  
-Git • GitHub • REST APIs • VSCode 
+Git • GitHub • REST APIs • VSCode • Jupyter Notebook  
 
 **Data Science & ML
 Python • Numpy • Pandas
