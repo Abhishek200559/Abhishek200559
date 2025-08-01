@@ -16,6 +16,9 @@
 
 ## 🛠 Tech Stack & Tools
 
+**Languages:** 
+Java, Python, JavaScript
+
 **Frontend:**  
 HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 
@@ -24,9 +27,6 @@ Node.js, Express.js
 
 **Databases:**  
 MongoDB, PostgreSQL, MySQL
-
-**Data Science & AIML:**  
-Python, Numpy, Pandas
 
 **Other Tools:**  
 Git, GitHub, REST APIs, VSCode, Jupyter Notebook
