@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - I'm a self-motivated developer passionate about building scalable, intuitive, and efficient web applications.
-- I have a strong foundation in Data Structures and Algorithms and enjoy solving real-world problems using Python.
+- I have a strong foundation in Data Structures and Algorithms and enjoy solving real-world problems.
 - I'm actively exploring new domains like Machine Learning, AI and backend technologies.
 - I enjoy working across the full stack — from designing responsive UIs to developing robust APIs.
 - Currently working on full-stack projects using React, Node.js, and others.
