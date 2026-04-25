@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Podishetty</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Exploring Data Science & Tech</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Exploring AI, DEV and Tech in general</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - I have a strong foundation in Data Structures and Algorithms and enjoy solving real-world problems.
 - I'm actively exploring new domains like Machine Learning, AI and backend technologies.
 - I enjoy working across the full stack — from designing responsive UIs to developing robust APIs.
-- Currently working on full-stack projects using React, Node.js, and others.
+- Currently working on full-stack projects using Java, Spring Boot, Angular etc.
 - I'm curious about tech innovation and focused on writing clean, maintainable code.
 
 ---
@@ -20,27 +20,17 @@
 Java, Python, JavaScript
 
 **Frontend:**  
-HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Angular
 
 **Backend:**  
-Node.js, Express.js
+Java, Spring Boot
 
 **Databases:**  
 MongoDB, PostgreSQL, MySQL
 
 **Other Tools:**  
-Git, GitHub, REST APIs, VSCode, Jupyter Notebook
+Git, GitHub, REST APIs, VSCode, Jupyter Notebook, IntelliJ
 
----
-
-## 📂 Projects
-
-**Simon Says Memory Game**  
-- Built using HTML, CSS, JavaScript  
-- Implements game logic with increasing levels of complexity  
-- Added keyboard and click interaction with sound and visual feedback  
-- Improved DOM manipulation and front-end interaction skills  
-(More projects coming soon)
 ---
 
 ## 📊 GitHub Stats
