@@ -16,20 +16,20 @@
 
 ## 🛠 Tech Stack & Tools
 
-**Languages:** 
-Java, Python, JavaScript
-
-**Frontend:**  
-HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Angular
-
-**Backend:**  
-Java, Spring Boot
-
-**Databases:**  
-MongoDB, PostgreSQL, MySQL
-
-**Other Tools:**  
-Git, GitHub, REST APIs, VSCode, Jupyter Notebook, IntelliJ
+•
+Languages : Java, JavaScript, Python, SQL
+•
+Backend : Spring Boot, Node.js, REST APIs, MVC Architecture, Spring Data JPA, Hibernate, Microservices
+•
+Frontend : HTML, CSS, JavaScript, Bootstrap, Angular
+•
+Databases : MySQL, MongoDB
+•
+Core CS : Data Structures & Algorithms, OOP, DBMS
+•
+Concepts : JWT, RBAC, Layered Architecture, RESTful Design, API Testing
+•
+Tools : Git, GitHub, Postman, VS Code, IntelliJ, Maven
 
 ---
 
