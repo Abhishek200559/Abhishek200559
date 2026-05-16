@@ -18,19 +18,19 @@
 
 •
 Languages : Java, JavaScript, Python, SQL
-•
+•<br>
 Backend : Spring Boot, Node.js, REST APIs, MVC Architecture, Spring Data JPA, Hibernate, Microservices
-•
+•<br>
 Frontend : HTML, CSS, JavaScript, Bootstrap, Angular
-•
+•<br>
 Databases : MySQL, MongoDB
-•
+•<br>
 Core CS : Data Structures & Algorithms, OOP, DBMS
-•
+•<br>
 Concepts : JWT, RBAC, Layered Architecture, RESTful Design, API Testing
-•
+•<br>
 Tools : Git, GitHub, Postman, VS Code, IntelliJ, Maven
-
+<br>
 ---
 
 ## 📊 GitHub Stats
