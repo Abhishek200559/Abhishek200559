@@ -28,7 +28,7 @@
 <br>
 •Concepts : JWT, RBAC, Layered Architecture, RESTful Design, API Testing
 <br>
-•Tools : Git, GitHub, Postman, VS Code, IntelliJ, Maven
+•Tools : **Git, GitHub, Postman, VS Code, IntelliJ, Maven**
 <br>
 ---
 
